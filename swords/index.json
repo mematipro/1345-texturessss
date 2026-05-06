@@ -1,4 +1,7 @@
-
 [
-  {"name": "pink-tourmaline-sword", "file": "pink-tourmaline-sword.png"}
+  {"name": "demon-sword-by-ml", "file": "demon-sword-by-ml.png"},
+  {"name": "pink-tourmaline-sword", "file": "pink-tourmaline-sword.png"},
+  {"name": "stone-sword-friheden", "file": "stone-sword-friheden.png"},
+  {"name": "sword", "file": "sword.png"},
+  {"name": "the-nether-king-sword", "file": "the-nether-king-sword.png"}
 ]
